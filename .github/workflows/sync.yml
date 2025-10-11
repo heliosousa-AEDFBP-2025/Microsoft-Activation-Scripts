@@ -1,4 +1,3 @@
-
 name: Sync Fork
 
 on:
@@ -24,4 +23,5 @@ jobs:
           git fetch upstream
           git checkout master
           git merge upstream/master
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
           git push origin master
