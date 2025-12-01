@@ -2,7 +2,7 @@
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
-<p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
+<p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
 <hr>
   
@@ -63,8 +63,8 @@
 ---
 
 ```
-Latest Version: 3.7
-Release date: 11-Sep-2025
+Latest Version: 3.9
+Release date: 19-Nov-2025
 ```
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
@@ -99,7 +99,7 @@ Release date: 11-Sep-2025
 
 [1]: https://github.com/massgravel/Microsoft-Activation-Scripts
 [2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
+[3]: https://git.activated.win/Microsoft-Activation-Scripts
 [4]: https://discord.gg/j2yFsV5ZVC
 [5]: https://www.reddit.com/r/MAS_Activator
 [6]: https://bsky.app/profile/massgrave.dev
@@ -108,3 +108,4 @@ Release date: 11-Sep-2025
 ---
 
 <p align="center">Made with Love ❤️</p>
+
