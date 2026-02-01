@@ -1,9 +1,12 @@
 @echo off
 
 
+::============================================================================
+::
 ::  Check-Activation-Status
 ::  Written by @abbodi1406
-::  https://gravesoft.dev/cas
+::
+::============================================================================
 
 
 ::  Set Environment variables, it helps if they are misconfigured in the system
